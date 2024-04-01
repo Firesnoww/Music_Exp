@@ -7,9 +7,16 @@ public class Eggstars : MonoBehaviour
     public Animator anim;
     public AudioSource sonido;
 
-    public AudioClip clip;
+    public AudioClip[] clip;
 
     public bool Agarrar = false;
+
+    public int SonidosPista;
+    public bool Esta = false;
+
+    public  float velocidad;
+
+    public GameObject HuevitoGrande;
 
     // Start is called before the first frame update
 
@@ -17,7 +24,7 @@ public class Eggstars : MonoBehaviour
     {
        anim = GetComponentInChildren<Animator>();
        sonido = GetComponent<AudioSource>();
-       sonido.clip = clip;
+       sonido.clip = clip[SonidosPista];
     }
     void Start()
     {
@@ -29,6 +36,7 @@ public class Eggstars : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         if (Agarrar)
         {
             anim.SetBool("Take", true);
@@ -43,8 +51,9 @@ public class Eggstars : MonoBehaviour
         Debug.Log("entro");
         if (other.CompareTag("base"))
         {
-            anim.SetBool("Dance", true);
-            SonidoOn();
+            anim.SetBool("Dance", true);                    
+            Esta = true;              
+            StartCoroutine(CSonido());       
             Agarrar= false;
             anim.SetBool("Take", false);
         }
@@ -62,26 +71,26 @@ public class Eggstars : MonoBehaviour
         //Salir de basee
         Debug.Log("salio");
         if (other.CompareTag("base")) 
-        {
-            anim.SetBool("Dance", false);
-            SonidoOff();
+        {   
+            anim.SetBool("Dance", false);         
+            Esta = false;
         }
         //Salir de caja
         if (other.CompareTag("Caja"))
         {
             anim.SetBool("Fuera", true);
-
         }
     }
 
-    public void SonidoOn()
+    IEnumerator CSonido()
     {
+        sonido.clip = clip[SonidosPista];
         sonido.Play();
-    }
-
-    public void SonidoOff()
-    {
-        sonido.Stop();
+        yield return new WaitForSeconds(velocidad);
+        if (Esta == true)
+        {
+            StartCoroutine(CSonido());
+        }
     }
 
 }

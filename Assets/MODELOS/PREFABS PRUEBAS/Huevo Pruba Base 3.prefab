@@ -11,6 +11,10 @@ PrefabInstance:
       propertyPath: clip
       value: 
       objectReference: {fileID: 8300000, guid: 25a4b375dafc1f9479d048f4dc29b2b9, type: 3}
+    - target: {fileID: 8927870001822392219, guid: ae78cb18c1469834f9d0230eb29d25c4, type: 3}
+      propertyPath: clip.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 25a4b375dafc1f9479d048f4dc29b2b9, type: 3}
     - target: {fileID: 8927870001822392222, guid: ae78cb18c1469834f9d0230eb29d25c4, type: 3}
       propertyPath: m_RootOrder
       value: 0

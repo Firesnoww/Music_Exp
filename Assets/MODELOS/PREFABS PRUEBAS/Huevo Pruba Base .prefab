@@ -168,7 +168,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -264,8 +264,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   anim: {fileID: 0}
   sonido: {fileID: 0}
-  clip: {fileID: 8300000, guid: f7cdd498f20ebc14c9ffb48b9c046be3, type: 3}
+  clip:
+  - {fileID: 8300000, guid: f7cdd498f20ebc14c9ffb48b9c046be3, type: 3}
+  - {fileID: 8300000, guid: e69d748db1964a94ab03c12a1085b4c4, type: 3}
+  - {fileID: 8300000, guid: 25a4b375dafc1f9479d048f4dc29b2b9, type: 3}
   Agarrar: 0
+  SonidosPista: 0
+  Esta: 0
+  velocidad: 0
 --- !u!54 &6048063295862764829
 Rigidbody:
   m_ObjectHideFlags: 0
