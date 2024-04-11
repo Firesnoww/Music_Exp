@@ -18,6 +18,8 @@ public class Eggstars : MonoBehaviour
 
     public GameObject HuevitoGrande;
 
+    public GameManagement management;
+
     // Start is called before the first frame update
 
     private void Awake()
@@ -25,6 +27,7 @@ public class Eggstars : MonoBehaviour
        anim = GetComponentInChildren<Animator>();
        sonido = GetComponent<AudioSource>();
        sonido.clip = clip[SonidosPista];
+       management= FindObjectOfType<GameManagement>();
     }
     void Start()
     {
@@ -36,14 +39,13 @@ public class Eggstars : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        velocidad = management.tiempoInicial;
         if (Agarrar)
         {
             anim.SetBool("Take", true);
         }
         
     }
-
 
     private void OnTriggerEnter(Collider other)
     {
@@ -84,13 +86,17 @@ public class Eggstars : MonoBehaviour
 
     IEnumerator CSonido()
     {
-        sonido.clip = clip[SonidosPista];
-        sonido.Play();
-        yield return new WaitForSeconds(velocidad);
-        if (Esta == true)
+        if (management.inicio)
         {
-            StartCoroutine(CSonido());
+            sonido.clip = clip[SonidosPista];
+            sonido.Play();
+            yield return new WaitForSeconds(velocidad);
+            if (Esta == true)
+            {
+                StartCoroutine(CSonido());
+            }
         }
+      
     }
 
 }
