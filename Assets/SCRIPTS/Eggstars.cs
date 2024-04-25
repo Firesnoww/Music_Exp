@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class Eggstars : MonoBehaviour
@@ -19,6 +20,7 @@ public class Eggstars : MonoBehaviour
     public GameObject HuevitoGrande;
 
     public GameManagement management;
+
 
     // Start is called before the first frame update
 
@@ -58,6 +60,9 @@ public class Eggstars : MonoBehaviour
             StartCoroutine(CSonido());       
             Agarrar= false;
             anim.SetBool("Take", false);
+            DetectorDeHuevo detect = other.GetComponent<DetectorDeHuevo>();
+            Transform lugar = detect.LugarHuevo;
+            Instantiate(HuevitoGrande, lugar.position, lugar.rotation);
         }
 
         //Entrar en Caja
@@ -76,6 +81,7 @@ public class Eggstars : MonoBehaviour
         {   
             anim.SetBool("Dance", false);         
             Esta = false;
+            Destroy(HuevitoGrande);
         }
         //Salir de caja
         if (other.CompareTag("Caja"))

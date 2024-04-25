@@ -272,7 +272,7 @@ MonoBehaviour:
   SonidosPista: 0
   Esta: 0
   velocidad: 0
-  HuevitoGrande: {fileID: 0}
+  HuevitoGrande: {fileID: 7150120789746144790, guid: b075e6d82b04a3e4e9967514a1d053f1, type: 3}
   management: {fileID: 0}
 --- !u!54 &6048063295862764829
 Rigidbody:

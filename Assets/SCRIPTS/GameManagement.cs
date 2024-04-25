@@ -9,7 +9,7 @@ public class GameManagement : MonoBehaviour
     public float tiempoActual;
 
     public float tiempoSuena = 0.5f;
-    public bool inicio;
+    public bool inicio = true;
 
     // Start is called before the first frame update
     void Start()
