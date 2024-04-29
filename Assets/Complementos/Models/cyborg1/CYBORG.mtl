@@ -1,0 +1,26 @@
+# Blender 3.4.1 MTL File: 'CYBORG.blend'
+# www.blender.org
+
+newmtl CABEZA
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/lambert4SG_BaseColor.png
+map_Ns C:/lambert4SG_Roughness.png
+map_refl C:/lambert4SG_Metallic.png
+map_Ke C:/lambert4SG_Emission.png
+map_Bump -bm 1.000000 C:/lambert4SG_Normal.png
+
+newmtl CUERPO
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/blinn4SG_BaseColor.png
+map_Ns C:/blinn4SG_Roughness.png
+map_refl C:/blinn4SG_Metallic.png
+map_Ke C:/blinn4SG_Emission.png
+map_Bump -bm 1.000000 C:/blinn4SG_Normal.png
