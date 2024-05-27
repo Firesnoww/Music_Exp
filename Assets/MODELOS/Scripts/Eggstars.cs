@@ -30,6 +30,7 @@ public class Eggstars : MonoBehaviour
 
     public bool tempo = true;
 
+
     // Start is called before the first frame update
 
     private void Awake()
@@ -62,10 +63,17 @@ public class Eggstars : MonoBehaviour
             print("accion update");
         }
 
-    }
-    public void ActivadorPlaca()
-    {
+        if (management.inicio && Esta )
+        {
+            StartCoroutine(CSonido());
+        }
 
+        }
+    public void ActivadorSonido()
+    {
+       
+            
+        
     }
 
     private void OnTriggerEnter(Collider other)
@@ -79,9 +87,8 @@ public class Eggstars : MonoBehaviour
 
         if (other.CompareTag("base"))
         {
-            Debug.Log("entro");
-            Esta = true;
-            StartCoroutine(CSonido());
+            Debug.Log("entro_Huevo "+ gameObject.name);
+            Esta = true;         
             Agarrar = false;
             anim.SetBool("Take", false);
             DetectorDeHuevo detect = other.GetComponent<DetectorDeHuevo>();
@@ -134,8 +141,7 @@ public class Eggstars : MonoBehaviour
 
     IEnumerator CSonido()
     {
-        if (management.inicio)
-        {
+      
             sonido.clip = clip[SonidosPista];
             sonido.Play();
             yield return new WaitForSeconds(velocidad);
@@ -143,7 +149,7 @@ public class Eggstars : MonoBehaviour
             {
                 StartCoroutine(CSonido());
             }
-        }
+        
     }
     IEnumerator EstadoPlacas(bool estado)
     {

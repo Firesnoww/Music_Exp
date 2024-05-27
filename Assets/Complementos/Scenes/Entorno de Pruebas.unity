@@ -1054,6 +1054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tiempoInicial: 1
   tiempoActual: 0
+  IniActual: 0
   tiempoSuena: 0.5
   inicio: 1
   interfaz: []
@@ -4754,13 +4755,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8927870001822392219, guid: ae78cb18c1469834f9d0230eb29d25c4, type: 3}
+      propertyPath: accion.m_Action.m_Id
+      value: f2e1c983-87d7-4299-ab5b-ec072c67db28
+      objectReference: {fileID: 0}
+    - target: {fileID: 8927870001822392219, guid: ae78cb18c1469834f9d0230eb29d25c4, type: 3}
+      propertyPath: accion.m_Action.m_Name
+      value: Accion
+      objectReference: {fileID: 0}
     - target: {fileID: 8927870001822392222, guid: ae78cb18c1469834f9d0230eb29d25c4, type: 3}
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8927870001822392222, guid: ae78cb18c1469834f9d0230eb29d25c4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.456
+      value: 0.608
       objectReference: {fileID: 0}
     - target: {fileID: 8927870001822392222, guid: ae78cb18c1469834f9d0230eb29d25c4, type: 3}
       propertyPath: m_LocalPosition.y

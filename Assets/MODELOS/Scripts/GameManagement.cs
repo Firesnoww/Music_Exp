@@ -7,9 +7,10 @@ public class GameManagement : MonoBehaviour
     [Header("Temporizador")]
     public float tiempoInicial;
     public float tiempoActual;
+    public float IniActual;
+    public float tiempoSuena;
 
-    public float tiempoSuena = 0.5f;
-    public bool inicio = true;
+    public bool inicio = false;
 
 	public GameObject[] interfaz;
         
@@ -17,6 +18,7 @@ public class GameManagement : MonoBehaviour
 	void Start()
     {
         tiempoActual = tiempoInicial;
+        tiempoSuena = IniActual;
         
     }
 
@@ -25,22 +27,23 @@ public class GameManagement : MonoBehaviour
     {
         tiempoActual -= Time.deltaTime;
         tiempoSuena -= Time.deltaTime;
-        if (tiempoActual <= 0f) 
-        { 
-        tiempoActual = tiempoInicial;
-        tiempoSuena = 0.5f;
 
-        if (tiempoSuena >= 0.8f) 
-            {
-                Debug.Log("entro");
-                inicio = true;
-            }
-        else if (tiempoSuena <= 0) 
-            {
-                Debug.Log("saliooo");
-                inicio = false;
-            }     
-           
+        if (tiempoSuena > 0.8f)
+        {
+            Debug.Log("entro");
+            inicio = true;
+        }
+        else
+        {
+            Debug.Log("saliooo");
+            inicio = false;
+        }
+
+        if (tiempoActual <= 0f)
+        {
+            tiempoActual = tiempoInicial;
+            tiempoSuena = IniActual;
+
         }
     }
 
