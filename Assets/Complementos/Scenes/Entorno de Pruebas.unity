@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -421,8 +421,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 140449739}
-  m_LocalRotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0.1767, z: 0.092}
+  m_LocalRotation: {x: -0, y: -0.000000119209275, z: -0, w: 1}
+  m_LocalPosition: {x: 0.7, y: 1.224, z: 1.372}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -445,8 +445,8 @@ Transform:
   - {fileID: 1288358091}
   - {fileID: 1095910146}
   - {fileID: 24358468}
-  m_Father: {fileID: 1629687101}
-  m_RootOrder: 1
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &180119774
 GameObject:
@@ -1054,7 +1054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tiempoInicial: 1
   tiempoActual: 0
-  IniActual: 0
+  IniActual: 0.81
   tiempoSuena: 0.5
   inicio: 1
   interfaz: []
@@ -4813,11 +4813,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae78cb18c1469834f9d0230eb29d25c4, type: 3}
---- !u!4 &1629687101 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 8927870001822392222, guid: ae78cb18c1469834f9d0230eb29d25c4, type: 3}
-  m_PrefabInstance: {fileID: 1629687100}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1642343894
 GameObject:
   m_ObjectHideFlags: 0
@@ -5785,3 +5780,72 @@ MonoBehaviour:
   - {fileID: 7562976822474527095, guid: 0697bc2d6e5350941aaec96e13801d60, type: 3}
   - {fileID: 1878365560650455204, guid: 56a9e836af6d905419ccceafabf61257, type: 3}
   - {fileID: 8735537277591423478, guid: dd81bc93abd207c499af566b077f377f, type: 3}
+--- !u!1001 &2143466160
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.70832
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.70832
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.70832
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.6127
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.0434
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -20.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}
+      propertyPath: m_Name
+      value: escenario EggStar1.2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a1871a2e8ebaa744eb5f1ce85c696455, type: 3}

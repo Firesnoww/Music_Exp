@@ -275,6 +275,21 @@ MonoBehaviour:
   velocidad: 0
   HuevitoGrande: {fileID: 7150120789746144790, guid: b075e6d82b04a3e4e9967514a1d053f1, type: 3}
   management: {fileID: 0}
+  MainPlacas: {fileID: 0}
+  PlataformasSonido: []
+  accion:
+    m_UseReference: 0
+    m_Action:
+      m_Name: Accion
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 2e9cc782-28ae-4ed0-8eea-c2d5318493bd
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Reference: {fileID: 0}
+  tempo: 1
 --- !u!54 &6048063295862764829
 Rigidbody:
   m_ObjectHideFlags: 0

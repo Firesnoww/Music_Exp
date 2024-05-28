@@ -1,3 +1,4 @@
+
 using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
@@ -44,7 +45,6 @@ public class Eggstars : MonoBehaviour
     {
 
         Debug.Log("hola, soy " + gameObject.name);
-        MainPlacas.gameObject.SetActive(false);
         accion.action.performed += Presionado;
 
     }
@@ -68,7 +68,7 @@ public class Eggstars : MonoBehaviour
             StartCoroutine(CSonido());
         }
 
-        }
+    }
     public void ActivadorSonido()
     {
        
@@ -89,7 +89,6 @@ public class Eggstars : MonoBehaviour
         {
             Debug.Log("entro_Huevo "+ gameObject.name);
             Esta = true;         
-            Agarrar = false;
             anim.SetBool("Take", false);
             DetectorDeHuevo detect = other.GetComponent<DetectorDeHuevo>();
             Transform lugar = detect.LugarHuevo;
@@ -99,27 +98,7 @@ public class Eggstars : MonoBehaviour
         //Entrar en Caja
 
     }
-	//private void OnTriggerStay(Collider other)
-	//{
-	//	if (Esta && (other.CompareTag("base")) && accion.action.ReadValue<float>() > 0.9f)
-	//	{
- //           print("dentro Stay");
- //           bool estado;
- //           if (MainPlacas.activeInHierarchy && tempo == true)
-	//		{
- //               estado = false;
-                
-                
-	//		}
-	//		else
-	//		{
- //               estado = true;
-                
-	//		}
-            
- //           StartCoroutine(EstadoPlacas(estado));
- //       }
-	//}
+	
 
 
 	private void OnTriggerExit(Collider other)

@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: a1871a2e8ebaa744eb5f1ce85c696455
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -9186053941133871987
+    second: Torus.001|barra led 2.001Action
+  - first:
+      74: 698030820649671846
+    second: Torus.001|barra led 2.002Action
+  - first:
+      74: -8491519528645967773
+    second: Torus.001|barra led 2.003Action
+  - first:
+      74: 986520123323059826
+    second: Torus.001|barra led 2.004Action
+  - first:
+      74: -6703028463577783768
+    second: Torus.001|barra led 2.005Action
+  - first:
+      74: 7303300587212542769
+    second: Torus.001|barra led 2Action.001
+  - first:
+      74: -6375690582952646521
+    second: Torus.001|barra led flotante 1.001Action
+  - first:
+      74: -8904559465365241625
+    second: Torus.001|barra led flotante 1Action.001
+  - first:
+      74: 8864931767808870159
+    second: Torus.001|boomboxAction
+  - first:
+      74: 3186627663734159665
+    second: Torus.001|nube.001Action
+  - first:
+      74: -7551029741774250485
+    second: Torus.001|nube.002Action
+  - first:
+      74: -5189486635396639640
+    second: Torus.001|nube.003Action
+  - first:
+      74: 5322943879092966283
+    second: Torus.001|nube.004Action
+  - first:
+      74: 4239910155083084183
+    second: Torus.001|nubeAction
+  - first:
+      74: 6755702151989149167
+    second: Torus.001|Torus.001Action
+  - first:
+      74: -6892660587647262754
+    second: Torus.001|Torus.002Action
+  - first:
+      74: 9182456575361858957
+    second: Torus.001|vidrio flotandoAction
+  - first:
+      74: 4371036804855969324
+    second: nube|barra led 2.001Action
+  - first:
+      74: -2665809406836890614
+    second: nube|barra led 2.002Action
+  - first:
+      74: 5894790385370865240
+    second: nube|barra led 2.003Action
+  - first:
+      74: -2934689732230965184
+    second: nube|barra led 2.004Action
+  - first:
+      74: -5706007705826761798
+    second: nube|barra led 2.005Action
+  - first:
+      74: 6372717690519433477
+    second: nube|barra led 2Action.001
+  - first:
+      74: -6547081819043408824
+    second: nube|barra led flotante 1.001Action
+  - first:
+      74: -2036719929118445664
+    second: nube|barra led flotante 1Action.001
+  - first:
+      74: 658165699668266182
+    second: nube|boomboxAction
+  - first:
+      74: 5343973221744910974
+    second: nube|nube.001Action
+  - first:
+      74: -5145013575199870394
+    second: nube|nube.002Action
+  - first:
+      74: -1467496652545948998
+    second: nube|nube.003Action
+  - first:
+      74: 8481600723167586945
+    second: nube|nube.004Action
+  - first:
+      74: -3232235565554284142
+    second: nube|nubeAction
+  - first:
+      74: -8360989013675135928
+    second: nube|Torus.001Action
+  - first:
+      74: -17962375106360098
+    second: nube|Torus.002Action
+  - first:
+      74: 4322693435198342
+    second: nube|vidrio flotandoAction
+  - first:
+      74: -3103848876058976077
+    second: nube.001|barra led 2.001Action
+  - first:
+      74: 7701795064036532575
+    second: nube.001|barra led 2.002Action
+  - first:
+      74: 8975326534924208017
+    second: nube.001|barra led 2.003Action
+  - first:
+      74: -3923817850400977600
+    second: nube.001|barra led 2.004Action
+  - first:
+      74: -3930859949734509699
+    second: nube.001|barra led 2.005Action
+  - first:
+      74: 1341713486602465279
+    second: nube.001|barra led 2Action.001
+  - first:
+      74: -3723074143930143430
+    second: nube.001|barra led flotante 1.001Action
+  - first:
+      74: 6609644526382522582
+    second: nube.001|barra led flotante 1Action.001
+  - first:
+      74: 1824261151049452667
+    second: nube.001|boomboxAction
+  - first:
+      74: 3789933744949784698
+    second: nube.001|nube.001Action
+  - first:
+      74: 4110418867049773158
+    second: nube.001|nube.002Action
+  - first:
+      74: -504664617155803046
+    second: nube.001|nube.003Action
+  - first:
+      74: -1611431988552952734
+    second: nube.001|nube.004Action
+  - first:
+      74: 3787336008646951924
+    second: nube.001|nubeAction
+  - first:
+      74: -96083052317356214
+    second: nube.001|Torus.001Action
+  - first:
+      74: -324300070846672923
+    second: nube.001|Torus.002Action
+  - first:
+      74: 1706504592727507607
+    second: nube.001|vidrio flotandoAction
+  - first:
+      74: -5990385153417204578
+    second: nube.002|barra led 2.001Action
+  - first:
+      74: 7508331167899309309
+    second: nube.002|barra led 2.002Action
+  - first:
+      74: 42490428390242463
+    second: nube.002|barra led 2.003Action
+  - first:
+      74: 1851590018014902583
+    second: nube.002|barra led 2.004Action
+  - first:
+      74: 3808062153656331913
+    second: nube.002|barra led 2.005Action
+  - first:
+      74: -6455590599595596665
+    second: nube.002|barra led 2Action.001
+  - first:
+      74: -4090858831050358499
+    second: nube.002|barra led flotante 1.001Action
+  - first:
+      74: 3891635774912859878
+    second: nube.002|barra led flotante 1Action.001
+  - first:
+      74: -6309396291679735898
+    second: nube.002|boomboxAction
+  - first:
+      74: 5478242434951007731
+    second: nube.002|nube.001Action
+  - first:
+      74: 47419537193526529
+    second: nube.002|nube.002Action
+  - first:
+      74: -8712639077097530375
+    second: nube.002|nube.003Action
+  - first:
+      74: -4711269509144866564
+    second: nube.002|nube.004Action
+  - first:
+      74: -7037457806822076898
+    second: nube.002|nubeAction
+  - first:
+      74: 4872355084324253987
+    second: nube.002|Torus.001Action
+  - first:
+      74: 8674030024967430599
+    second: nube.002|Torus.002Action
+  - first:
+      74: -3573912189811133143
+    second: nube.002|vidrio flotandoAction
+  - first:
+      74: -8422971833114358064
+    second: nube.003|barra led 2.001Action
+  - first:
+      74: 8321136101279205314
+    second: nube.003|barra led 2.002Action
+  - first:
+      74: -593332051172498369
+    second: nube.003|barra led 2.003Action
+  - first:
+      74: 1498829053770215055
+    second: nube.003|barra led 2.004Action
+  - first:
+      74: 1850471758575076972
+    second: nube.003|barra led 2.005Action
+  - first:
+      74: -2821471888552894859
+    second: nube.003|barra led 2Action.001
+  - first:
+      74: 2815466003511586166
+    second: nube.003|barra led flotante 1.001Action
+  - first:
+      74: -848789803884503176
+    second: nube.003|barra led flotante 1Action.001
+  - first:
+      74: 987782366514089498
+    second: nube.003|boomboxAction
+  - first:
+      74: 2693136681326682328
+    second: nube.003|nube.001Action
+  - first:
+      74: 5077158087031779730
+    second: nube.003|nube.002Action
+  - first:
+      74: -1606289369144895287
+    second: nube.003|nube.003Action
+  - first:
+      74: -500713630504383737
+    second: nube.003|nube.004Action
+  - first:
+      74: 8516588045052504146
+    second: nube.003|nubeAction
+  - first:
+      74: 3046678852221532845
+    second: nube.003|Torus.001Action
+  - first:
+      74: -7026278158341494852
+    second: nube.003|Torus.002Action
+  - first:
+      74: -200219517310951571
+    second: nube.003|vidrio flotandoAction
+  - first:
+      74: 1446376636390585700
+    second: vidrio flotando|barra led 2.001Action
+  - first:
+      74: 6529947448524148079
+    second: vidrio flotando|barra led 2.002Action
+  - first:
+      74: -4469276623474875422
+    second: vidrio flotando|barra led 2.003Action
+  - first:
+      74: 2319349916407002133
+    second: vidrio flotando|barra led 2.004Action
+  - first:
+      74: 3769857675719605957
+    second: vidrio flotando|barra led 2.005Action
+  - first:
+      74: -6386526270880199177
+    second: vidrio flotando|barra led 2Action.001
+  - first:
+      74: -7379360234358835236
+    second: vidrio flotando|barra led flotante 1.001Action
+  - first:
+      74: -4911194394518268549
+    second: vidrio flotando|barra led flotante 1Action.001
+  - first:
+      74: 4319252321873384144
+    second: vidrio flotando|boomboxAction
+  - first:
+      74: -2764229595914471604
+    second: vidrio flotando|nube.001Action
+  - first:
+      74: -7714664456391055204
+    second: vidrio flotando|nube.002Action
+  - first:
+      74: 4316248817120104721
+    second: vidrio flotando|nube.003Action
+  - first:
+      74: -8029929597702458393
+    second: vidrio flotando|nube.004Action
+  - first:
+      74: -4650526468636700019
+    second: vidrio flotando|nubeAction
+  - first:
+      74: 5302875915941650095
+    second: vidrio flotando|Torus.001Action
+  - first:
+      74: -7346785820608792025
+    second: vidrio flotando|Torus.002Action
+  - first:
+      74: -1186055672274293354
+    second: vidrio flotando|vidrio flotandoAction
+  - first:
+      74: -5889746460735849749
+    second: barra led flotante 1|barra led 2.001Action
+  - first:
+      74: -7705317356765735474
+    second: barra led flotante 1|barra led 2.002Action
+  - first:
+      74: -8990992179335705591
+    second: barra led flotante 1|barra led 2.003Action
+  - first:
+      74: -8779650682070659156
+    second: barra led flotante 1|barra led 2.004Action
+  - first:
+      74: 7107269694246671304
+    second: barra led flotante 1|barra led 2.005Action
+  - first:
+      74: 2422923701555422308
+    second: barra led flotante 1|barra led 2Action.001
+  - first:
+      74: 5428281944307805806
+    second: barra led flotante 1|barra led flotante 1.001Action
+  - first:
+      74: -2359039436788362256
+    second: barra led flotante 1|barra led flotante 1Action.001
+  - first:
+      74: 7766311418873539445
+    second: barra led flotante 1|boomboxAction
+  - first:
+      74: -798657559816814678
+    second: barra led flotante 1|nube.001Action
+  - first:
+      74: 694653858369918038
+    second: barra led flotante 1|nube.002Action
+  - first:
+      74: -3680118786706029344
+    second: barra led flotante 1|nube.003Action
+  - first:
+      74: 8115968347395090026
+    second: barra led flotante 1|nube.004Action
+  - first:
+      74: 4058565342701326830
+    second: barra led flotante 1|nubeAction
+  - first:
+      74: -167733045576597226
+    second: barra led flotante 1|Torus.001Action
+  - first:
+      74: -7522212019023721762
+    second: barra led flotante 1|Torus.002Action
+  - first:
+      74: 6991898389985870940
+    second: barra led flotante 1|vidrio flotandoAction
+  - first:
+      74: -5118039695365258081
+    second: barra led 2|barra led 2.001Action
+  - first:
+      74: 1117547529924240912
+    second: barra led 2|barra led 2.002Action
+  - first:
+      74: 4520541399208697520
+    second: barra led 2|barra led 2.003Action
+  - first:
+      74: 1069004410121795058
+    second: barra led 2|barra led 2.004Action
+  - first:
+      74: -5029571652113954361
+    second: barra led 2|barra led 2.005Action
+  - first:
+      74: -7104662813315082099
+    second: barra led 2|barra led 2Action.001
+  - first:
+      74: 5460103022034126624
+    second: barra led 2|barra led flotante 1.001Action
+  - first:
+      74: -6659434100631059288
+    second: barra led 2|barra led flotante 1Action.001
+  - first:
+      74: -6830128483395433156
+    second: barra led 2|boomboxAction
+  - first:
+      74: 1088862002690271411
+    second: barra led 2|nube.001Action
+  - first:
+      74: 3563622987978869967
+    second: barra led 2|nube.002Action
+  - first:
+      74: 4983714980505716818
+    second: barra led 2|nube.003Action
+  - first:
+      74: 8714478179227102841
+    second: barra led 2|nube.004Action
+  - first:
+      74: -689740985960493913
+    second: barra led 2|nubeAction
+  - first:
+      74: -7276951964488553358
+    second: barra led 2|Torus.001Action
+  - first:
+      74: -1789358967290136065
+    second: barra led 2|Torus.002Action
+  - first:
+      74: 1452923442386765142
+    second: barra led 2|vidrio flotandoAction
+  - first:
+      74: 2375544699465330117
+    second: nube.004|barra led 2.001Action
+  - first:
+      74: 743990198141349720
+    second: nube.004|barra led 2.002Action
+  - first:
+      74: -5600405159482122914
+    second: nube.004|barra led 2.003Action
+  - first:
+      74: -6375605189224406897
+    second: nube.004|barra led 2.004Action
+  - first:
+      74: -2107575334773851463
+    second: nube.004|barra led 2.005Action
+  - first:
+      74: 6343363913879021494
+    second: nube.004|barra led 2Action.001
+  - first:
+      74: 1867205793001026925
+    second: nube.004|barra led flotante 1.001Action
+  - first:
+      74: -1334308213232061174
+    second: nube.004|barra led flotante 1Action.001
+  - first:
+      74: 5284953658787061322
+    second: nube.004|boomboxAction
+  - first:
+      74: -8090441447718914466
+    second: nube.004|nube.001Action
+  - first:
+      74: -633458774789838204
+    second: nube.004|nube.002Action
+  - first:
+      74: 8531262381638972054
+    second: nube.004|nube.003Action
+  - first:
+      74: -6975528822469353735
+    second: nube.004|nube.004Action
+  - first:
+      74: 1215011322105119750
+    second: nube.004|nubeAction
+  - first:
+      74: 5562720816018589327
+    second: nube.004|Torus.001Action
+  - first:
+      74: 9212797823032994459
+    second: nube.004|Torus.002Action
+  - first:
+      74: -959020901671987380
+    second: nube.004|vidrio flotandoAction
+  - first:
+      74: 2818744210690970973
+    second: barra led 2.001|barra led 2.001Action
+  - first:
+      74: -8941989163217509101
+    second: barra led 2.001|barra led 2.002Action
+  - first:
+      74: -4987283432662954877
+    second: barra led 2.001|barra led 2.003Action
+  - first:
+      74: -4814477035380790530
+    second: barra led 2.001|barra led 2.004Action
+  - first:
+      74: -7257247355159150180
+    second: barra led 2.001|barra led 2.005Action
+  - first:
+      74: 1167912151444900120
+    second: barra led 2.001|barra led 2Action.001
+  - first:
+      74: -8779811803416336387
+    second: barra led 2.001|barra led flotante 1.001Action
+  - first:
+      74: 3320583834539634358
+    second: barra led 2.001|barra led flotante 1Action.001
+  - first:
+      74: 5037400786044739500
+    second: barra led 2.001|boomboxAction
+  - first:
+      74: -5904644506669848772
+    second: barra led 2.001|nube.001Action
+  - first:
+      74: -99915264843041788
+    second: barra led 2.001|nube.002Action
+  - first:
+      74: 5739335873372896758
+    second: barra led 2.001|nube.003Action
+  - first:
+      74: -7286677731667164078
+    second: barra led 2.001|nube.004Action
+  - first:
+      74: 2943912232310954632
+    second: barra led 2.001|nubeAction
+  - first:
+      74: -1495584187543681370
+    second: barra led 2.001|Torus.001Action
+  - first:
+      74: -5581334159858911971
+    second: barra led 2.001|Torus.002Action
+  - first:
+      74: -1319974172729480820
+    second: barra led 2.001|vidrio flotandoAction
+  - first:
+      74: 4528782024558382039
+    second: barra led 2.002|barra led 2.001Action
+  - first:
+      74: -1628445938708101992
+    second: barra led 2.002|barra led 2.002Action
+  - first:
+      74: -2432175897661427468
+    second: barra led 2.002|barra led 2.003Action
+  - first:
+      74: -4211505722758021209
+    second: barra led 2.002|barra led 2.004Action
+  - first:
+      74: 1928628430385097414
+    second: barra led 2.002|barra led 2.005Action
+  - first:
+      74: -5418539626662600704
+    second: barra led 2.002|barra led 2Action.001
+  - first:
+      74: 8084898518826575877
+    second: barra led 2.002|barra led flotante 1.001Action
+  - first:
+      74: 8770764656089802616
+    second: barra led 2.002|barra led flotante 1Action.001
+  - first:
+      74: 2625592362162447679
+    second: barra led 2.002|boomboxAction
+  - first:
+      74: -5661393248623474485
+    second: barra led 2.002|nube.001Action
+  - first:
+      74: -7989776269976463866
+    second: barra led 2.002|nube.002Action
+  - first:
+      74: 5317649897128976765
+    second: barra led 2.002|nube.003Action
+  - first:
+      74: -6330493070700167250
+    second: barra led 2.002|nube.004Action
+  - first:
+      74: 5707003857319518370
+    second: barra led 2.002|nubeAction
+  - first:
+      74: 5814140747163266482
+    second: barra led 2.002|Torus.001Action
+  - first:
+      74: 6653883868014956251
+    second: barra led 2.002|Torus.002Action
+  - first:
+      74: 3071883727413762085
+    second: barra led 2.002|vidrio flotandoAction
+  - first:
+      74: -500518164101576267
+    second: barra led 2.003|barra led 2.001Action
+  - first:
+      74: -349745356243823460
+    second: barra led 2.003|barra led 2.002Action
+  - first:
+      74: 6465872392995741752
+    second: barra led 2.003|barra led 2.003Action
+  - first:
+      74: -3997371399914792707
+    second: barra led 2.003|barra led 2.004Action
+  - first:
+      74: 6164442616355621680
+    second: barra led 2.003|barra led 2.005Action
+  - first:
+      74: -8001475573935505116
+    second: barra led 2.003|barra led 2Action.001
+  - first:
+      74: -7164707177235103814
+    second: barra led 2.003|barra led flotante 1.001Action
+  - first:
+      74: -1138890975049701882
+    second: barra led 2.003|barra led flotante 1Action.001
+  - first:
+      74: -1727406815121193006
+    second: barra led 2.003|boomboxAction
+  - first:
+      74: 2434212674498372316
+    second: barra led 2.003|nube.001Action
+  - first:
+      74: -8927951498443803554
+    second: barra led 2.003|nube.002Action
+  - first:
+      74: -3273539153885802222
+    second: barra led 2.003|nube.003Action
+  - first:
+      74: 6462167022281387119
+    second: barra led 2.003|nube.004Action
+  - first:
+      74: -4583432341473647473
+    second: barra led 2.003|nubeAction
+  - first:
+      74: -7790460578561724225
+    second: barra led 2.003|Torus.001Action
+  - first:
+      74: -8050709326180741990
+    second: barra led 2.003|Torus.002Action
+  - first:
+      74: 2883440146057730354
+    second: barra led 2.003|vidrio flotandoAction
+  - first:
+      74: 3720030251122999416
+    second: barra led flotante 1.001|barra led 2.001Action
+  - first:
+      74: -3380862147868594945
+    second: barra led flotante 1.001|barra led 2.002Action
+  - first:
+      74: -784051072553082797
+    second: barra led flotante 1.001|barra led 2.003Action
+  - first:
+      74: 7141883635633155606
+    second: barra led flotante 1.001|barra led 2.004Action
+  - first:
+      74: -1249636986872786501
+    second: barra led flotante 1.001|barra led 2.005Action
+  - first:
+      74: -4707140219779534296
+    second: barra led flotante 1.001|barra led 2Action.001
+  - first:
+      74: 9016985811997161571
+    second: barra led flotante 1.001|barra led flotante 1.001Action
+  - first:
+      74: 1605478722196162891
+    second: barra led flotante 1.001|barra led flotante 1Action.001
+  - first:
+      74: -8954137977944522757
+    second: barra led flotante 1.001|boomboxAction
+  - first:
+      74: 5126344674455410298
+    second: barra led flotante 1.001|nube.001Action
+  - first:
+      74: 5755494115694203885
+    second: barra led flotante 1.001|nube.002Action
+  - first:
+      74: -4528753215264988808
+    second: barra led flotante 1.001|nube.003Action
+  - first:
+      74: -4632756313752534511
+    second: barra led flotante 1.001|nube.004Action
+  - first:
+      74: 3092041110014996126
+    second: barra led flotante 1.001|nubeAction
+  - first:
+      74: -5987048372766943389
+    second: barra led flotante 1.001|Torus.001Action
+  - first:
+      74: 6947245421462781829
+    second: barra led flotante 1.001|Torus.002Action
+  - first:
+      74: 7685517632356722479
+    second: barra led flotante 1.001|vidrio flotandoAction
+  - first:
+      74: -6981366111300528667
+    second: barra led 2.004|barra led 2.001Action
+  - first:
+      74: 5438474381588543387
+    second: barra led 2.004|barra led 2.002Action
+  - first:
+      74: -1880161607141264572
+    second: barra led 2.004|barra led 2.003Action
+  - first:
+      74: 3779783709234265116
+    second: barra led 2.004|barra led 2.004Action
+  - first:
+      74: -669224364125276347
+    second: barra led 2.004|barra led 2.005Action
+  - first:
+      74: 4524832043162961243
+    second: barra led 2.004|barra led 2Action.001
+  - first:
+      74: 5854656007467313927
+    second: barra led 2.004|barra led flotante 1.001Action
+  - first:
+      74: 1114367743651840519
+    second: barra led 2.004|barra led flotante 1Action.001
+  - first:
+      74: 6885593058895066127
+    second: barra led 2.004|boomboxAction
+  - first:
+      74: -2431889183446791450
+    second: barra led 2.004|nube.001Action
+  - first:
+      74: -4892366734817254557
+    second: barra led 2.004|nube.002Action
+  - first:
+      74: 1882699434983995008
+    second: barra led 2.004|nube.003Action
+  - first:
+      74: -3831428774937129858
+    second: barra led 2.004|nube.004Action
+  - first:
+      74: 1501553138959609012
+    second: barra led 2.004|nubeAction
+  - first:
+      74: 2927176489219649464
+    second: barra led 2.004|Torus.001Action
+  - first:
+      74: -7248801172504985938
+    second: barra led 2.004|Torus.002Action
+  - first:
+      74: 5985831905378931106
+    second: barra led 2.004|vidrio flotandoAction
+  - first:
+      74: 2562549916421543771
+    second: barra led 2.005|barra led 2.001Action
+  - first:
+      74: -3837091702172293853
+    second: barra led 2.005|barra led 2.002Action
+  - first:
+      74: 1827640968335930750
+    second: barra led 2.005|barra led 2.003Action
+  - first:
+      74: -2495751531220429012
+    second: barra led 2.005|barra led 2.004Action
+  - first:
+      74: 2637261693391200808
+    second: barra led 2.005|barra led 2.005Action
+  - first:
+      74: -2765840009198541858
+    second: barra led 2.005|barra led 2Action.001
+  - first:
+      74: -8409596486814132439
+    second: barra led 2.005|barra led flotante 1.001Action
+  - first:
+      74: -4487176937790166889
+    second: barra led 2.005|barra led flotante 1Action.001
+  - first:
+      74: 8967842932908250092
+    second: barra led 2.005|boomboxAction
+  - first:
+      74: -9027838115467389597
+    second: barra led 2.005|nube.001Action
+  - first:
+      74: -640010870836636788
+    second: barra led 2.005|nube.002Action
+  - first:
+      74: -8064904263673675941
+    second: barra led 2.005|nube.003Action
+  - first:
+      74: 2593549887873571523
+    second: barra led 2.005|nube.004Action
+  - first:
+      74: 7349602267924233598
+    second: barra led 2.005|nubeAction
+  - first:
+      74: 8184459396315729444
+    second: barra led 2.005|Torus.001Action
+  - first:
+      74: -349207797940477844
+    second: barra led 2.005|Torus.002Action
+  - first:
+      74: -1828616526961832247
+    second: barra led 2.005|vidrio flotandoAction
+  - first:
+      74: 3759084208561337930
+    second: boombox|barra led 2.001Action
+  - first:
+      74: -4871503044171389557
+    second: boombox|barra led 2.002Action
+  - first:
+      74: 3709040294322578863
+    second: boombox|barra led 2.003Action
+  - first:
+      74: 781829832773100244
+    second: boombox|barra led 2.004Action
+  - first:
+      74: 1873972971364322796
+    second: boombox|barra led 2.005Action
+  - first:
+      74: -8580808527682902613
+    second: boombox|barra led 2Action.001
+  - first:
+      74: -7497739709871018432
+    second: boombox|barra led flotante 1.001Action
+  - first:
+      74: -2772284240058460659
+    second: boombox|barra led flotante 1Action.001
+  - first:
+      74: -7929355916283322987
+    second: boombox|boomboxAction
+  - first:
+      74: 7703140681008558862
+    second: boombox|nube.001Action
+  - first:
+      74: 7362002850991568442
+    second: boombox|nube.002Action
+  - first:
+      74: 7613939556679827185
+    second: boombox|nube.003Action
+  - first:
+      74: 598969483637743204
+    second: boombox|nube.004Action
+  - first:
+      74: 3623005018532573405
+    second: boombox|nubeAction
+  - first:
+      74: -6453906215615710190
+    second: boombox|Torus.001Action
+  - first:
+      74: 7270265320801129316
+    second: boombox|Torus.002Action
+  - first:
+      74: -936148669462009216
+    second: boombox|vidrio flotandoAction
+  - first:
+      74: -3783641693870162561
+    second: Torus.002|barra led 2.001Action
+  - first:
+      74: 5798423587447343485
+    second: Torus.002|barra led 2.002Action
+  - first:
+      74: -8800648609978874088
+    second: Torus.002|barra led 2.003Action
+  - first:
+      74: -1652914999062474234
+    second: Torus.002|barra led 2.004Action
+  - first:
+      74: 5827296113676661556
+    second: Torus.002|barra led 2.005Action
+  - first:
+      74: 7972417203497684481
+    second: Torus.002|barra led 2Action.001
+  - first:
+      74: -4722575718134228400
+    second: Torus.002|barra led flotante 1.001Action
+  - first:
+      74: -1239432140674384029
+    second: Torus.002|barra led flotante 1Action.001
+  - first:
+      74: -4318504834297542525
+    second: Torus.002|boomboxAction
+  - first:
+      74: 7257082168819423159
+    second: Torus.002|nube.001Action
+  - first:
+      74: -3901832306142353016
+    second: Torus.002|nube.002Action
+  - first:
+      74: -4724037979463908716
+    second: Torus.002|nube.003Action
+  - first:
+      74: -6352964888315502783
+    second: Torus.002|nube.004Action
+  - first:
+      74: 3852333311388972545
+    second: Torus.002|nubeAction
+  - first:
+      74: 1069378591129367317
+    second: Torus.002|Torus.001Action
+  - first:
+      74: -5770713183457694718
+    second: Torus.002|Torus.002Action
+  - first:
+      74: 6606058635668633177
+    second: Torus.002|vidrio flotandoAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
