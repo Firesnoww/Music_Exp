@@ -1,0 +1,1238 @@
+fileFormatVersion: 2
+guid: c46fc93298b9a7042bada68b0691dc05
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -7206906134284941614
+    second: cofre|canasta|canasta|barra led 2.001Action
+  - first:
+      74: -7137132714333530529
+    second: cofre|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 6062707358909930593
+    second: cofre|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 444560088921563348
+    second: cofre|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 3814291465295763685
+    second: cofre|canasta|canasta|barra led 2.005Action
+  - first:
+      74: -5494232756565591776
+    second: cofre|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 4900982293676014862
+    second: cofre|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -3716325539671554770
+    second: cofre|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -5045378506447800747
+    second: cofre|canasta|canasta|boomboxAction
+  - first:
+      74: -5635897659978086744
+    second: cofre|canasta|canasta|boomboxAction.001
+  - first:
+      74: -7557468525867185386
+    second: cofre|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 8247596939261963074
+    second: cofre|canasta|canasta|nube.001Action
+  - first:
+      74: 2095087751117559688
+    second: cofre|canasta|canasta|nube.002Action
+  - first:
+      74: 6320138148989820207
+    second: cofre|canasta|canasta|nubeAction
+  - first:
+      74: -3459108569915260058
+    second: cofre|canasta|canasta|Torus.001Action
+  - first:
+      74: -8497378280512265720
+    second: cofre|canasta|canasta|Torus.002Action
+  - first:
+      74: 3265462297853845021
+    second: cofre|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: 1325300516855080664
+    second: silla|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 91775944102932923
+    second: silla|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 2589611169300421139
+    second: silla|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 1560167815072011852
+    second: silla|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -7668839596098554805
+    second: silla|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 4073263136083427335
+    second: silla|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 5229658750207520017
+    second: silla|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 8121928640078254337
+    second: silla|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -8208082469151778134
+    second: silla|canasta|canasta|boomboxAction
+  - first:
+      74: 4685149405344017391
+    second: silla|canasta|canasta|boomboxAction.001
+  - first:
+      74: -7691505340564552589
+    second: silla|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 6585482823390325389
+    second: silla|canasta|canasta|nube.001Action
+  - first:
+      74: -2760845664293720967
+    second: silla|canasta|canasta|nube.002Action
+  - first:
+      74: 4415587045977458749
+    second: silla|canasta|canasta|nubeAction
+  - first:
+      74: -4937195485850746094
+    second: silla|canasta|canasta|Torus.001Action
+  - first:
+      74: -3650728132127913216
+    second: silla|canasta|canasta|Torus.002Action
+  - first:
+      74: 4852303395999525309
+    second: silla|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -167146300807260358
+    second: sombrilla|canasta|canasta|barra led 2.001Action
+  - first:
+      74: -856643143906293772
+    second: sombrilla|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -4949557299402626363
+    second: sombrilla|canasta|canasta|barra led 2.003Action
+  - first:
+      74: -6150329204372272887
+    second: sombrilla|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -2416964961062144392
+    second: sombrilla|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 1469999479841806872
+    second: sombrilla|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -833908600141889582
+    second: sombrilla|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 3234364970473768556
+    second: sombrilla|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -7564297688420598565
+    second: sombrilla|canasta|canasta|boomboxAction
+  - first:
+      74: 6826031288462199147
+    second: sombrilla|canasta|canasta|boomboxAction.001
+  - first:
+      74: 534900717856267806
+    second: sombrilla|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 3587117144568938992
+    second: sombrilla|canasta|canasta|nube.001Action
+  - first:
+      74: -2361115532991118030
+    second: sombrilla|canasta|canasta|nube.002Action
+  - first:
+      74: 1570778389413756810
+    second: sombrilla|canasta|canasta|nubeAction
+  - first:
+      74: 5696333464938510367
+    second: sombrilla|canasta|canasta|Torus.001Action
+  - first:
+      74: 6291532447052963553
+    second: sombrilla|canasta|canasta|Torus.002Action
+  - first:
+      74: 5670123746510129813
+    second: sombrilla|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -6499593199678124778
+    second: pelota|canasta|canasta|barra led 2.001Action
+  - first:
+      74: -6230299631668683108
+    second: pelota|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 3577727016426122503
+    second: pelota|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 8667516561765367483
+    second: pelota|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -2246744932766096438
+    second: pelota|canasta|canasta|barra led 2.005Action
+  - first:
+      74: -6050757119276160780
+    second: pelota|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -5429726302975028200
+    second: pelota|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 7084442092738271648
+    second: pelota|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 1857041389990215687
+    second: pelota|canasta|canasta|boomboxAction
+  - first:
+      74: -2864178967706190546
+    second: pelota|canasta|canasta|boomboxAction.001
+  - first:
+      74: -5193075878420409538
+    second: pelota|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: -3416272604135677890
+    second: pelota|canasta|canasta|nube.001Action
+  - first:
+      74: 664321350548775096
+    second: pelota|canasta|canasta|nube.002Action
+  - first:
+      74: 3581517851204454235
+    second: pelota|canasta|canasta|nubeAction
+  - first:
+      74: -952953593771877498
+    second: pelota|canasta|canasta|Torus.001Action
+  - first:
+      74: 7962591098506650799
+    second: pelota|canasta|canasta|Torus.002Action
+  - first:
+      74: 5853403691265602611
+    second: pelota|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: 808541780157973897
+    second: "se\xF1al|canasta|canasta|barra led 2.001Action"
+  - first:
+      74: -3387209686320653
+    second: "se\xF1al|canasta|canasta|barra led 2.002Action"
+  - first:
+      74: -993279584965957505
+    second: "se\xF1al|canasta|canasta|barra led 2.003Action"
+  - first:
+      74: 6359342505810320996
+    second: "se\xF1al|canasta|canasta|barra led 2.004Action"
+  - first:
+      74: 5279406023277670067
+    second: "se\xF1al|canasta|canasta|barra led 2.005Action"
+  - first:
+      74: 6282198667254780959
+    second: "se\xF1al|canasta|canasta|barra led 2Action.001"
+  - first:
+      74: 1255709380331695040
+    second: "se\xF1al|canasta|canasta|barra led flotante 1.001Action"
+  - first:
+      74: -4864277121856734818
+    second: "se\xF1al|canasta|canasta|barra led flotante 1Action.001"
+  - first:
+      74: 7622525057642205082
+    second: "se\xF1al|canasta|canasta|boomboxAction"
+  - first:
+      74: -6284060378959349638
+    second: "se\xF1al|canasta|canasta|boomboxAction.001"
+  - first:
+      74: 7154516617256482858
+    second: "se\xF1al|canasta|canasta|canasta|canasta|Cube.004Action"
+  - first:
+      74: -8166705609328424429
+    second: "se\xF1al|canasta|canasta|nube.001Action"
+  - first:
+      74: 302398597087866409
+    second: "se\xF1al|canasta|canasta|nube.002Action"
+  - first:
+      74: -4437738636549744213
+    second: "se\xF1al|canasta|canasta|nubeAction"
+  - first:
+      74: -4830615925223776690
+    second: "se\xF1al|canasta|canasta|Torus.001Action"
+  - first:
+      74: 5635562032479978032
+    second: "se\xF1al|canasta|canasta|Torus.002Action"
+  - first:
+      74: -890305748740071790
+    second: "se\xF1al|canasta|canasta|vidrio flotandoAction"
+  - first:
+      74: -3557016133848763565
+    second: cofre.001|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 5540604481478852970
+    second: cofre.001|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 1693721854052107261
+    second: cofre.001|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 7685860593985073395
+    second: cofre.001|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -7576795057166652229
+    second: cofre.001|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 6165180935825098270
+    second: cofre.001|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -7072212182119084521
+    second: cofre.001|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -2306210985372412917
+    second: cofre.001|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -2346041825338468296
+    second: cofre.001|canasta|canasta|boomboxAction
+  - first:
+      74: -691521923483933575
+    second: cofre.001|canasta|canasta|boomboxAction.001
+  - first:
+      74: -7590823826203009671
+    second: cofre.001|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: -7329939758120291310
+    second: cofre.001|canasta|canasta|nube.001Action
+  - first:
+      74: 6691177136881925461
+    second: cofre.001|canasta|canasta|nube.002Action
+  - first:
+      74: -3729522035386795259
+    second: cofre.001|canasta|canasta|nubeAction
+  - first:
+      74: -8052115449880780515
+    second: cofre.001|canasta|canasta|Torus.001Action
+  - first:
+      74: -6657641637866469325
+    second: cofre.001|canasta|canasta|Torus.002Action
+  - first:
+      74: -7958949227890843277
+    second: cofre.001|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: 8256786233621415337
+    second: Torus.001|canasta|canasta|barra led 2.001Action
+  - first:
+      74: -6291779006001481882
+    second: Torus.001|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -2032615555549159514
+    second: Torus.001|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 3349355178764968676
+    second: Torus.001|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -3547994991642730738
+    second: Torus.001|canasta|canasta|barra led 2.005Action
+  - first:
+      74: -218874657281400399
+    second: Torus.001|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -4964238932387048393
+    second: Torus.001|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -5482190415245848504
+    second: Torus.001|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 5044548406047566762
+    second: Torus.001|canasta|canasta|boomboxAction
+  - first:
+      74: 8047211968313114683
+    second: Torus.001|canasta|canasta|boomboxAction.001
+  - first:
+      74: -6201745671188035812
+    second: Torus.001|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 1017634571978232164
+    second: Torus.001|canasta|canasta|nube.001Action
+  - first:
+      74: 4225201094374786577
+    second: Torus.001|canasta|canasta|nube.002Action
+  - first:
+      74: 1900702232183237507
+    second: Torus.001|canasta|canasta|nubeAction
+  - first:
+      74: -4133497417178305291
+    second: Torus.001|canasta|canasta|Torus.001Action
+  - first:
+      74: -6578473665198025926
+    second: Torus.001|canasta|canasta|Torus.002Action
+  - first:
+      74: -6904163868898587237
+    second: Torus.001|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -197978157588781899
+    second: nube|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 6766205860675472857
+    second: nube|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 7840617071868805559
+    second: nube|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 3481644889072760245
+    second: nube|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -7098261587235818490
+    second: nube|canasta|canasta|barra led 2.005Action
+  - first:
+      74: -6943160422843771466
+    second: nube|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -3704110824183390500
+    second: nube|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -6289148600788141092
+    second: nube|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 4462626302194144102
+    second: nube|canasta|canasta|boomboxAction
+  - first:
+      74: 4347838421298276862
+    second: nube|canasta|canasta|boomboxAction.001
+  - first:
+      74: -4690794269914253339
+    second: nube|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 7396216895381838127
+    second: nube|canasta|canasta|nube.001Action
+  - first:
+      74: 5108269990308472091
+    second: nube|canasta|canasta|nube.002Action
+  - first:
+      74: -5987616337372537926
+    second: nube|canasta|canasta|nubeAction
+  - first:
+      74: 718743545700081511
+    second: nube|canasta|canasta|Torus.001Action
+  - first:
+      74: 6510674778526711704
+    second: nube|canasta|canasta|Torus.002Action
+  - first:
+      74: 5079108933997391503
+    second: nube|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: 2492383237759146670
+    second: nube.001|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 8248439695701411372
+    second: nube.001|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -1037061248298328831
+    second: nube.001|canasta|canasta|barra led 2.003Action
+  - first:
+      74: -4683110046292334843
+    second: nube.001|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 319194181768546486
+    second: nube.001|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 3967893164827387543
+    second: nube.001|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -3310897124093348201
+    second: nube.001|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 7771480453381786041
+    second: nube.001|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -6148845840645193982
+    second: nube.001|canasta|canasta|boomboxAction
+  - first:
+      74: -4543490344589716974
+    second: nube.001|canasta|canasta|boomboxAction.001
+  - first:
+      74: 7514837416196662470
+    second: nube.001|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: -9203238847313748806
+    second: nube.001|canasta|canasta|nube.001Action
+  - first:
+      74: -2864678218714247138
+    second: nube.001|canasta|canasta|nube.002Action
+  - first:
+      74: 5743799022101333384
+    second: nube.001|canasta|canasta|nubeAction
+  - first:
+      74: 8161864824802143474
+    second: nube.001|canasta|canasta|Torus.001Action
+  - first:
+      74: -6095229435356326209
+    second: nube.001|canasta|canasta|Torus.002Action
+  - first:
+      74: 3363683368810811182
+    second: nube.001|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -8067362789791435609
+    second: nube.002|canasta|canasta|barra led 2.001Action
+  - first:
+      74: -8612058466399250696
+    second: nube.002|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 7756372038856503
+    second: nube.002|canasta|canasta|barra led 2.003Action
+  - first:
+      74: -6415787315642867710
+    second: nube.002|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 9071495404401696687
+    second: nube.002|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 2107774405751440260
+    second: nube.002|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 4819177320286706847
+    second: nube.002|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 8284896979289948024
+    second: nube.002|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 1812198509319851054
+    second: nube.002|canasta|canasta|boomboxAction
+  - first:
+      74: -5742818066611984492
+    second: nube.002|canasta|canasta|boomboxAction.001
+  - first:
+      74: -3789131203828768110
+    second: nube.002|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 2100795900360416262
+    second: nube.002|canasta|canasta|nube.001Action
+  - first:
+      74: -9139457054968014933
+    second: nube.002|canasta|canasta|nube.002Action
+  - first:
+      74: 6156867687008162577
+    second: nube.002|canasta|canasta|nubeAction
+  - first:
+      74: 5066611499555477007
+    second: nube.002|canasta|canasta|Torus.001Action
+  - first:
+      74: -2882570967753334756
+    second: nube.002|canasta|canasta|Torus.002Action
+  - first:
+      74: 4302216842109306971
+    second: nube.002|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: 3990045154630688192
+    second: barra led flotante 1|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 2194064833748520434
+    second: barra led flotante 1|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 8789175678716689888
+    second: barra led flotante 1|canasta|canasta|barra led 2.003Action
+  - first:
+      74: -4450749794359012774
+    second: barra led flotante 1|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -7738661941724706966
+    second: barra led flotante 1|canasta|canasta|barra led 2.005Action
+  - first:
+      74: -3852368695664967512
+    second: barra led flotante 1|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -3459353401032286237
+    second: barra led flotante 1|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 7732942573021993808
+    second: barra led flotante 1|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 1485646982265863534
+    second: barra led flotante 1|canasta|canasta|boomboxAction
+  - first:
+      74: -9000293835259908706
+    second: barra led flotante 1|canasta|canasta|boomboxAction.001
+  - first:
+      74: -4888573232290767858
+    second: barra led flotante 1|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: -7102745992271670746
+    second: barra led flotante 1|canasta|canasta|nube.001Action
+  - first:
+      74: -8828796923968888527
+    second: barra led flotante 1|canasta|canasta|nube.002Action
+  - first:
+      74: 973187857942778490
+    second: barra led flotante 1|canasta|canasta|nubeAction
+  - first:
+      74: -8750941393101987616
+    second: barra led flotante 1|canasta|canasta|Torus.001Action
+  - first:
+      74: 5418600334813267385
+    second: barra led flotante 1|canasta|canasta|Torus.002Action
+  - first:
+      74: 5509417936433810273
+    second: barra led flotante 1|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -3645032235353005535
+    second: barra led 2|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 769346120383024835
+    second: barra led 2|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -5602854269351224539
+    second: barra led 2|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 4269433270999340193
+    second: barra led 2|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 4928231044191949817
+    second: barra led 2|canasta|canasta|barra led 2.005Action
+  - first:
+      74: -1443935748371480903
+    second: barra led 2|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -7664545930604458408
+    second: barra led 2|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -6175205662035895895
+    second: barra led 2|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -5211773783680160442
+    second: barra led 2|canasta|canasta|boomboxAction
+  - first:
+      74: -3731318639576862619
+    second: barra led 2|canasta|canasta|boomboxAction.001
+  - first:
+      74: 7962014377965181340
+    second: barra led 2|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: -3427166911110586497
+    second: barra led 2|canasta|canasta|nube.001Action
+  - first:
+      74: 2687254929736395854
+    second: barra led 2|canasta|canasta|nube.002Action
+  - first:
+      74: 2116224160093120564
+    second: barra led 2|canasta|canasta|nubeAction
+  - first:
+      74: -5073328033861344475
+    second: barra led 2|canasta|canasta|Torus.001Action
+  - first:
+      74: -1642808762747470079
+    second: barra led 2|canasta|canasta|Torus.002Action
+  - first:
+      74: 8845315842584477372
+    second: barra led 2|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -3628039033494985360
+    second: barra led 2.001|canasta|canasta|barra led 2.001Action
+  - first:
+      74: -2491799553560872657
+    second: barra led 2.001|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 840400030707028010
+    second: barra led 2.001|canasta|canasta|barra led 2.003Action
+  - first:
+      74: -5546186521305684052
+    second: barra led 2.001|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -2525435760775342067
+    second: barra led 2.001|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 2399839440746516005
+    second: barra led 2.001|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -5291646555994902681
+    second: barra led 2.001|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 3184581395273999974
+    second: barra led 2.001|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 2167015466083101254
+    second: barra led 2.001|canasta|canasta|boomboxAction
+  - first:
+      74: -3966508329776024102
+    second: barra led 2.001|canasta|canasta|boomboxAction.001
+  - first:
+      74: 2560601412875283226
+    second: barra led 2.001|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: -3789851043648663112
+    second: barra led 2.001|canasta|canasta|nube.001Action
+  - first:
+      74: 2634031474677104404
+    second: barra led 2.001|canasta|canasta|nube.002Action
+  - first:
+      74: 7925599270034049737
+    second: barra led 2.001|canasta|canasta|nubeAction
+  - first:
+      74: 2374266625111053458
+    second: barra led 2.001|canasta|canasta|Torus.001Action
+  - first:
+      74: 8617498765932010382
+    second: barra led 2.001|canasta|canasta|Torus.002Action
+  - first:
+      74: -695210610911958149
+    second: barra led 2.001|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: 685294135808233165
+    second: barra led 2.002|canasta|canasta|barra led 2.001Action
+  - first:
+      74: -1411715978137668044
+    second: barra led 2.002|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -5871526719888778378
+    second: barra led 2.002|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 4982409045965135805
+    second: barra led 2.002|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 9025156523392177255
+    second: barra led 2.002|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 865454187214600391
+    second: barra led 2.002|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 3543879964147234482
+    second: barra led 2.002|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -8244861543116035895
+    second: barra led 2.002|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -8807375253691321536
+    second: barra led 2.002|canasta|canasta|boomboxAction
+  - first:
+      74: 8940941328692733342
+    second: barra led 2.002|canasta|canasta|boomboxAction.001
+  - first:
+      74: 5799350547160822126
+    second: barra led 2.002|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 3402711618750873700
+    second: barra led 2.002|canasta|canasta|nube.001Action
+  - first:
+      74: -8161249246660229462
+    second: barra led 2.002|canasta|canasta|nube.002Action
+  - first:
+      74: -5195482766863141453
+    second: barra led 2.002|canasta|canasta|nubeAction
+  - first:
+      74: 1502921329002605059
+    second: barra led 2.002|canasta|canasta|Torus.001Action
+  - first:
+      74: -5887320830512184313
+    second: barra led 2.002|canasta|canasta|Torus.002Action
+  - first:
+      74: 4789705244160514919
+    second: barra led 2.002|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -8190304026033521391
+    second: barra led 2.003|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 5478110950118271551
+    second: barra led 2.003|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -3233040527665590951
+    second: barra led 2.003|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 8717149841050702203
+    second: barra led 2.003|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -4187145789451625808
+    second: barra led 2.003|canasta|canasta|barra led 2.005Action
+  - first:
+      74: -5568635619194623765
+    second: barra led 2.003|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 6350369544632234380
+    second: barra led 2.003|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 645988139116014896
+    second: barra led 2.003|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -8527414628615648688
+    second: barra led 2.003|canasta|canasta|boomboxAction
+  - first:
+      74: -3644446547660462162
+    second: barra led 2.003|canasta|canasta|boomboxAction.001
+  - first:
+      74: 1179349507032933708
+    second: barra led 2.003|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 7685318831339443960
+    second: barra led 2.003|canasta|canasta|nube.001Action
+  - first:
+      74: 7686513732546583048
+    second: barra led 2.003|canasta|canasta|nube.002Action
+  - first:
+      74: -4985479118150210467
+    second: barra led 2.003|canasta|canasta|nubeAction
+  - first:
+      74: 7658834519349645027
+    second: barra led 2.003|canasta|canasta|Torus.001Action
+  - first:
+      74: -4865997471160565878
+    second: barra led 2.003|canasta|canasta|Torus.002Action
+  - first:
+      74: 5400388972419579150
+    second: barra led 2.003|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: 8009565197276085979
+    second: barra led flotante 1.001|canasta|canasta|barra led 2.001Action
+  - first:
+      74: -4968729096194444908
+    second: barra led flotante 1.001|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 6503489545665717075
+    second: barra led flotante 1.001|canasta|canasta|barra led 2.003Action
+  - first:
+      74: -4312787372449817490
+    second: barra led flotante 1.001|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 7995727455287636873
+    second: barra led flotante 1.001|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 8874500275147551685
+    second: barra led flotante 1.001|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 3761760703170469657
+    second: barra led flotante 1.001|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -5310898520336387735
+    second: barra led flotante 1.001|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 1111668302705901315
+    second: barra led flotante 1.001|canasta|canasta|boomboxAction
+  - first:
+      74: -1154414823376560064
+    second: barra led flotante 1.001|canasta|canasta|boomboxAction.001
+  - first:
+      74: 2526276942920927759
+    second: barra led flotante 1.001|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: -7152295550102795040
+    second: barra led flotante 1.001|canasta|canasta|nube.001Action
+  - first:
+      74: 3861273881384949035
+    second: barra led flotante 1.001|canasta|canasta|nube.002Action
+  - first:
+      74: 6840843075478285033
+    second: barra led flotante 1.001|canasta|canasta|nubeAction
+  - first:
+      74: 4830690940481472133
+    second: barra led flotante 1.001|canasta|canasta|Torus.001Action
+  - first:
+      74: 4115284662215660627
+    second: barra led flotante 1.001|canasta|canasta|Torus.002Action
+  - first:
+      74: -3068849722366666767
+    second: barra led flotante 1.001|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: 8870153053489732860
+    second: barra led 2.004|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 2850677526815910405
+    second: barra led 2.004|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 6663728106418743576
+    second: barra led 2.004|canasta|canasta|barra led 2.003Action
+  - first:
+      74: -2740428471005935604
+    second: barra led 2.004|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 5703184633266865747
+    second: barra led 2.004|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 3608320268244198782
+    second: barra led 2.004|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 960319943878782308
+    second: barra led 2.004|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -5907713160196133284
+    second: barra led 2.004|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 1156696187441098071
+    second: barra led 2.004|canasta|canasta|boomboxAction
+  - first:
+      74: 1879274412286832570
+    second: barra led 2.004|canasta|canasta|boomboxAction.001
+  - first:
+      74: 1121512708321112251
+    second: barra led 2.004|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 901027066136818748
+    second: barra led 2.004|canasta|canasta|nube.001Action
+  - first:
+      74: 3368564023748898243
+    second: barra led 2.004|canasta|canasta|nube.002Action
+  - first:
+      74: 4681853972086104082
+    second: barra led 2.004|canasta|canasta|nubeAction
+  - first:
+      74: -1126032181486942602
+    second: barra led 2.004|canasta|canasta|Torus.001Action
+  - first:
+      74: 3010151234646871658
+    second: barra led 2.004|canasta|canasta|Torus.002Action
+  - first:
+      74: 2155976396192596846
+    second: barra led 2.004|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -2161944667855727501
+    second: barra led 2.005|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 7849309688805392464
+    second: barra led 2.005|canasta|canasta|barra led 2.002Action
+  - first:
+      74: 558899637652526697
+    second: barra led 2.005|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 1828439560261051210
+    second: barra led 2.005|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 8058523111960137714
+    second: barra led 2.005|canasta|canasta|barra led 2.005Action
+  - first:
+      74: -4025403726082120596
+    second: barra led 2.005|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 1611185920733050820
+    second: barra led 2.005|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -3244454157379006427
+    second: barra led 2.005|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 3725525794254881910
+    second: barra led 2.005|canasta|canasta|boomboxAction
+  - first:
+      74: -2086707696591153570
+    second: barra led 2.005|canasta|canasta|boomboxAction.001
+  - first:
+      74: -3798465526740376211
+    second: barra led 2.005|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: -5600344119207554150
+    second: barra led 2.005|canasta|canasta|nube.001Action
+  - first:
+      74: 473518125019713344
+    second: barra led 2.005|canasta|canasta|nube.002Action
+  - first:
+      74: -8940844544901405003
+    second: barra led 2.005|canasta|canasta|nubeAction
+  - first:
+      74: -5992877216656974273
+    second: barra led 2.005|canasta|canasta|Torus.001Action
+  - first:
+      74: 5944163917070746731
+    second: barra led 2.005|canasta|canasta|Torus.002Action
+  - first:
+      74: -5597668642613036887
+    second: barra led 2.005|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -6923716056750688652
+    second: boombox|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 6611184890715647451
+    second: boombox|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -7862346629705965537
+    second: boombox|canasta|canasta|barra led 2.003Action
+  - first:
+      74: -1129516383718596431
+    second: boombox|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -1903908834978961455
+    second: boombox|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 5139215397048594999
+    second: boombox|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -4377217613559252018
+    second: boombox|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: -476636500994580427
+    second: boombox|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -8595260712484611452
+    second: boombox|canasta|canasta|boomboxAction
+  - first:
+      74: -1956635671400453678
+    second: boombox|canasta|canasta|boomboxAction.001
+  - first:
+      74: -7120256355179035848
+    second: boombox|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 1792781021214491046
+    second: boombox|canasta|canasta|nube.001Action
+  - first:
+      74: 1342193738457282729
+    second: boombox|canasta|canasta|nube.002Action
+  - first:
+      74: -4702023453814505552
+    second: boombox|canasta|canasta|nubeAction
+  - first:
+      74: -6151777947082085065
+    second: boombox|canasta|canasta|Torus.001Action
+  - first:
+      74: -3036735064369191763
+    second: boombox|canasta|canasta|Torus.002Action
+  - first:
+      74: 8815555971678471573
+    second: boombox|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: 2736430860789005873
+    second: Torus.002|canasta|canasta|barra led 2.001Action
+  - first:
+      74: -4642008474883739706
+    second: Torus.002|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -2993409001604176344
+    second: Torus.002|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 4817923720429462131
+    second: Torus.002|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 2119063041829275974
+    second: Torus.002|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 3169134812769337714
+    second: Torus.002|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 1301179338388262319
+    second: Torus.002|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 7361278970953060277
+    second: Torus.002|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 3745998594283147823
+    second: Torus.002|canasta|canasta|boomboxAction
+  - first:
+      74: -6492421745100048479
+    second: Torus.002|canasta|canasta|boomboxAction.001
+  - first:
+      74: 3378264738156380970
+    second: Torus.002|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 4800042496679015451
+    second: Torus.002|canasta|canasta|nube.001Action
+  - first:
+      74: -8067997755766773618
+    second: Torus.002|canasta|canasta|nube.002Action
+  - first:
+      74: -3264064476919727651
+    second: Torus.002|canasta|canasta|nubeAction
+  - first:
+      74: -897347469854307350
+    second: Torus.002|canasta|canasta|Torus.001Action
+  - first:
+      74: -8803520897739416256
+    second: Torus.002|canasta|canasta|Torus.002Action
+  - first:
+      74: -6075315111576028748
+    second: Torus.002|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -1266014489543247805
+    second: nube.003|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 988943419870759345
+    second: nube.003|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -1441748906004275001
+    second: nube.003|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 835854093699954328
+    second: nube.003|canasta|canasta|barra led 2.004Action
+  - first:
+      74: 1224093486854637897
+    second: nube.003|canasta|canasta|barra led 2.005Action
+  - first:
+      74: -7143193718042581437
+    second: nube.003|canasta|canasta|barra led 2Action.001
+  - first:
+      74: -1798901858038008383
+    second: nube.003|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 1330953624741607359
+    second: nube.003|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: 7593083653266982930
+    second: nube.003|canasta|canasta|boomboxAction
+  - first:
+      74: 522340139742087950
+    second: nube.003|canasta|canasta|boomboxAction.001
+  - first:
+      74: 4476488332520865358
+    second: nube.003|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: -1508745909138248978
+    second: nube.003|canasta|canasta|nube.001Action
+  - first:
+      74: -4432770589092716112
+    second: nube.003|canasta|canasta|nube.002Action
+  - first:
+      74: -8260748756283731957
+    second: nube.003|canasta|canasta|nubeAction
+  - first:
+      74: 4995347260817415950
+    second: nube.003|canasta|canasta|Torus.001Action
+  - first:
+      74: -2017185998151108941
+    second: nube.003|canasta|canasta|Torus.002Action
+  - first:
+      74: 5142141444382475486
+    second: nube.003|canasta|canasta|vidrio flotandoAction
+  - first:
+      74: -4150099768941645045
+    second: canasta|canasta|canasta|barra led 2.001Action
+  - first:
+      74: 6843721026152572954
+    second: canasta|canasta|canasta|barra led 2.002Action
+  - first:
+      74: -4489513053182692300
+    second: canasta|canasta|canasta|barra led 2.003Action
+  - first:
+      74: 1105582083898937120
+    second: canasta|canasta|canasta|barra led 2.004Action
+  - first:
+      74: -3390652984615043672
+    second: canasta|canasta|canasta|barra led 2.005Action
+  - first:
+      74: 2977529507569416972
+    second: canasta|canasta|canasta|barra led 2Action.001
+  - first:
+      74: 7969773546474105589
+    second: canasta|canasta|canasta|barra led flotante 1.001Action
+  - first:
+      74: 6678857010120589254
+    second: canasta|canasta|canasta|barra led flotante 1Action.001
+  - first:
+      74: -7866586163143096123
+    second: canasta|canasta|canasta|boomboxAction
+  - first:
+      74: -7199497928388438443
+    second: canasta|canasta|canasta|boomboxAction.001
+  - first:
+      74: 5407895958927909045
+    second: canasta|canasta|canasta|canasta|canasta|Cube.004Action
+  - first:
+      74: 5004923692536362959
+    second: canasta|canasta|canasta|nube.001Action
+  - first:
+      74: -7719723692329732342
+    second: canasta|canasta|canasta|nube.002Action
+  - first:
+      74: 3698327153817296090
+    second: canasta|canasta|canasta|nubeAction
+  - first:
+      74: 3640602908953901814
+    second: canasta|canasta|canasta|Torus.001Action
+  - first:
+      74: 8394325953558411425
+    second: canasta|canasta|canasta|Torus.002Action
+  - first:
+      74: -2305662264466980568
+    second: canasta|canasta|canasta|vidrio flotandoAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gradientes
+    second: {fileID: 2100000, guid: dc8d32882601c664f92a379e36c03973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: luz led _
+    second: {fileID: 2100000, guid: 6b3ba3077f92ee54bb54ec3d3dc2651b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
