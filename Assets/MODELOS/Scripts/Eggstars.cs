@@ -6,12 +6,8 @@ using UnityEngine;
 
 public class Eggstars : MonoBehaviour
 {
-    public Animator anim;
     public AudioSource sonido;
-
     public AudioClip[] clip;
-
-    public bool Agarrar = false;
 
     public int SonidosPista;
     public bool Esta = false;
@@ -21,8 +17,6 @@ public class Eggstars : MonoBehaviour
     public GameObject HuevitoGrande;
 
     public GameManagement management;
-
-    public GameObject MainPlacas;
 
     public Activo_Desactivo[] PlataformasSonido;
 
@@ -35,7 +29,7 @@ public class Eggstars : MonoBehaviour
 
     private void Awake()
     {
-        anim = GetComponentInChildren<Animator>();
+        
         sonido = GetComponent<AudioSource>();
         sonido.clip = clip[SonidosPista];
         management = FindObjectOfType<GameManagement>();
@@ -44,7 +38,7 @@ public class Eggstars : MonoBehaviour
     {
 
         Debug.Log("hola, soy " + gameObject.name);
-        MainPlacas.gameObject.SetActive(false);
+        
         accion.action.performed += Presionado;
 
     }
@@ -78,19 +72,13 @@ public class Eggstars : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
-        {
-            anim.SetBool("Take", true);
-        }
-
+      
         //Entrar en base
 
         if (other.CompareTag("base"))
         {
             Debug.Log("entro_Huevo "+ gameObject.name);
             Esta = true;         
-            Agarrar = false;
-            anim.SetBool("Take", false);
             DetectorDeHuevo detect = other.GetComponent<DetectorDeHuevo>();
             Transform lugar = detect.LugarHuevo;
             Instantiate(HuevitoGrande, lugar.position, lugar.rotation);
@@ -99,35 +87,15 @@ public class Eggstars : MonoBehaviour
         //Entrar en Caja
 
     }
-	//private void OnTriggerStay(Collider other)
-	//{
-	//	if (Esta && (other.CompareTag("base")) && accion.action.ReadValue<float>() > 0.9f)
-	//	{
- //           print("dentro Stay");
- //           bool estado;
- //           if (MainPlacas.activeInHierarchy && tempo == true)
-	//		{
- //               estado = false;
-                
-                
-	//		}
-	//		else
-	//		{
- //               estado = true;
-                
-	//		}
-            
- //           StartCoroutine(EstadoPlacas(estado));
- //       }
-	//}
+	private void OnTriggerStay(Collider other)
+    {
+
+    }
 
 
 	private void OnTriggerExit(Collider other)
     {
-        if (other.CompareTag("Player"))
-        {
-            anim.SetBool("Take", false);
-        }
+     
         //Salir de basee
 
         if (other.CompareTag("base"))
@@ -151,11 +119,5 @@ public class Eggstars : MonoBehaviour
             }
         
     }
-    IEnumerator EstadoPlacas(bool estado)
-    {
-        tempo = false;
-        MainPlacas.gameObject.SetActive(estado);
-        yield return new WaitForSeconds(1);
-        tempo = true;
-    }
+  
 }
