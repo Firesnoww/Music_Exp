@@ -40,11 +40,7 @@ public class Eggstars : MonoBehaviour
     void Start()
     {
 
-        Debug.Log("hola, soy " + gameObject.name);
-<<<<<<< HEAD
-=======
-        
->>>>>>> origin/final
+        Debug.Log("hola, soy " + gameObject.name); 
         accion.action.performed += Presionado;
 
     }
@@ -95,14 +91,12 @@ public class Eggstars : MonoBehaviour
         //Entrar en Caja
             
     }
-<<<<<<< HEAD
-	
-=======
+
 	private void OnTriggerStay(Collider other)
     {
 
     }
->>>>>>> origin/final
+
 
 
 	private void OnTriggerExit(Collider other)

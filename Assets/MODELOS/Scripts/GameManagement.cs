@@ -12,14 +12,14 @@ public class GameManagement : MonoBehaviour
 
     public bool inicio = false;
 
-	public GameObject[] interfaz;
-        
-	// Start is called before the first frame update
-	void Start()
+    public GameObject[] interfaz;
+
+    // Start is called before the first frame update
+    void Start()
     {
         tiempoActual = tiempoInicial;
         tiempoSuena = IniActual;
-        
+
     }
 
     // Update is called once per frame
@@ -47,4 +47,14 @@ public class GameManagement : MonoBehaviour
         }
     }
 
+
+    public void subirtime()
+    {
+        tiempoActual += 0.1f;
+	}
+    public void bajartime()
+    {
+        tiempoActual -= 0.1f;
+    }
+}
 }
