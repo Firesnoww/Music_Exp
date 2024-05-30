@@ -7,12 +7,8 @@ using UnityEngine;
 
 public class Eggstars : MonoBehaviour
 {
-    public Animator anim;
     public AudioSource sonido;
-
     public AudioClip[] clip;
-
-    public bool Agarrar = false;
 
     public int SonidosPista;
     public bool Esta = false;
@@ -22,8 +18,6 @@ public class Eggstars : MonoBehaviour
     public GameObject HuevitoGrande;
 
     public GameManagement management;
-
-    public GameObject MainPlacas;
 
     public Activo_Desactivo[] PlataformasSonido;
 
@@ -38,7 +32,7 @@ public class Eggstars : MonoBehaviour
 
     private void Awake()
     {
-        anim = GetComponentInChildren<Animator>();
+        
         sonido = GetComponent<AudioSource>();
         sonido.clip = clip[SonidosPista];
         management = FindObjectOfType<GameManagement>();
@@ -47,6 +41,10 @@ public class Eggstars : MonoBehaviour
     {
 
         Debug.Log("hola, soy " + gameObject.name);
+<<<<<<< HEAD
+=======
+        
+>>>>>>> origin/final
         accion.action.performed += Presionado;
 
     }
@@ -80,11 +78,7 @@ public class Eggstars : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
-        {
-            anim.SetBool("Take", true);
-        }
-
+      
         //Entrar en base
 
         if (other.CompareTag("base"))
@@ -101,15 +95,19 @@ public class Eggstars : MonoBehaviour
         //Entrar en Caja
             
     }
+<<<<<<< HEAD
 	
+=======
+	private void OnTriggerStay(Collider other)
+    {
+
+    }
+>>>>>>> origin/final
 
 
 	private void OnTriggerExit(Collider other)
     {
-        if (other.CompareTag("Player"))
-        {
-            anim.SetBool("Take", false);
-        }
+     
         //Salir de basee
 
         if (other.CompareTag("base"))
@@ -133,11 +131,5 @@ public class Eggstars : MonoBehaviour
             }
         
     }
-    IEnumerator EstadoPlacas(bool estado)
-    {
-        tempo = false;
-        MainPlacas.gameObject.SetActive(estado);
-        yield return new WaitForSeconds(1);
-        tempo = true;
-    }
+  
 }
