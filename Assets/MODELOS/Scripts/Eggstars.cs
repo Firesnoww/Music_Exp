@@ -31,6 +31,8 @@ public class Eggstars : MonoBehaviour
 
     public bool tempo = true;
 
+    public GameObject inicioWebo;
+
 
     // Start is called before the first frame update
 
@@ -87,16 +89,17 @@ public class Eggstars : MonoBehaviour
 
         if (other.CompareTag("base"))
         {
-            Debug.Log("entro_Huevo "+ gameObject.name);
-            Esta = true;         
-            anim.SetBool("Take", false);
+            Esta = true;             
             DetectorDeHuevo detect = other.GetComponent<DetectorDeHuevo>();
             Transform lugar = detect.LugarHuevo;
-            Instantiate(HuevitoGrande, lugar.position, lugar.rotation);
+            HuevitoGrande.transform.position = lugar.transform.position;
+            HuevitoGrande.transform.rotation = lugar.rotation;
+
+
         }
 
         //Entrar en Caja
-
+            
     }
 	
 
@@ -113,7 +116,7 @@ public class Eggstars : MonoBehaviour
         {
             Debug.Log("salio");
             Esta = false;
-            //Destroy(HuevitoGrande);
+            HuevitoGrande.transform.position = inicioWebo.transform.position;
         }
 
     }
